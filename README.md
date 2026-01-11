@@ -9,10 +9,10 @@ The task of our project is to create a model that can successfully identify whet
 https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
 
 # Assignment group
-Assingnment group 25
+Assignment group 25
 
 # Authors
-Kevin Kuipers (s5051150)
-Jasper de Vries (s6095321)
-Gillis de Pooter (s5790921)
+* Kevin Kuipers (s5051150)
+* Jasper de Vries (s6095321)
+* Gillis de Pooter (s5790921)
 
